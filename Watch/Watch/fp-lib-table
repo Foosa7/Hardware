@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name JLCPCB)(type KiCad)(uri ${KIPRJMOD}/JLCPCB.pretty)(options "")(descr ""))
+  (lib (name UL)(type KiCad)(uri /home/foosa/Documents/UL/2020-10-17_11-06-03/footprints.pretty)(options "")(descr ""))
+)

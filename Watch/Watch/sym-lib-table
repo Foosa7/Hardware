@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name JLCPCB)(type Legacy)(uri ${KIPRJMOD}/JLCPCB.lib)(options "")(descr ""))
+  (lib (name UL)(type Legacy)(uri /home/foosa/Documents/UL/2020-10-17_11-06-03/2020-10-17_11-06-03.lib)(options "")(descr ""))
+)
