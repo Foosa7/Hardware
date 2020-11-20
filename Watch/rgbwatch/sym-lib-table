@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rgbwatch)(type Legacy)(uri ${KIPRJMOD}/rgbwatch.lib)(options "")(descr ""))
+)
