@@ -6,3 +6,9 @@
       * [Constant Current Dummy Load for Power Supply and Battery Testing
 ](https://www.youtube.com/watch?v=8xX2SVcItOA)
       * [Arduino battery tester](http://www.vwlowen.co.uk/arduino/battery-tester/battery-tester.htm)
+
+
+
+# General Notes #
+
+* Managing BMS with external charger is called power path management.
