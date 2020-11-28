@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LIS2DH12TR-dk_Motion-Sensors-Accelerometers
+#
+DEF LIS2DH12TR-dk_Motion-Sensors-Accelerometers U 0 40 Y Y 1 F N
+F0 "U" -100 450 60 H V C CNN
+F1 "LIS2DH12TR-dk_Motion-Sensors-Accelerometers" 500 -700 60 H V C CNN
+F2 "digikey-footprints:VFLGA-12_2x2mm" 200 200 60 H I L CNN
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/12/c0/5c/36/b9/58/46/f2/DM00091513.pdf/files/DM00091513.pdf/jcr:content/translations/en.DM00091513.pdf" 200 300 60 H I L CNN
+F4 "497-14851-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LIS2DH12TR" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/12/c0/5c/36/b9/58/46/f2/DM00091513.pdf/files/DM00091513.pdf/jcr:content/translations/en.DM00091513.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LIS2DH12TR/497-14851-1-ND/4899838" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "ACCEL 2-16G I2C/SPI 12LGA" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 -400 300 400 0 1 0 f
+X SCL/SPC 1 -600 300 200 R 50 50 1 1 I
+X VDD_IO 10 100 600 200 D 50 50 1 1 W
+X INT2 11 500 -200 200 L 50 50 1 1 O
+X INT1 12 500 -100 200 L 50 50 1 1 O
+X CS 2 -600 200 200 R 50 50 1 1 I
+X SDO/SA0 3 -600 100 200 R 50 50 1 1 B
+X SDA/SDI/SDO 4 -600 0 200 R 50 50 1 1 B
+X Reserved 5 -300 -600 200 U 50 50 1 1 W
+X GND 6 -200 -600 200 U 50 50 1 1 W
+X GND 7 -100 -600 200 U 50 50 1 1 W
+X GND 8 0 -600 200 U 50 50 1 1 W
+X VDD 9 200 600 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
