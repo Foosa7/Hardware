@@ -1,4 +1,4 @@
-16944301823873312
+16949142727094515
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -68662,13 +68662,6 @@ rotary encoder
 0
 5
 4
-STM32L010K8T6
-QFP80P900X900X160-32N
-STM32L010K8T6-1
-Integrated Circuit
-0
-32
-32
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -75264,11 +75257,25 @@ varistor SIOV
 2
 2
 rgbwatch
+DFN-0606-3
+
+
+0
+3
+3
+rgbwatch
+DFN1006B-3
+
+
+0
+3
+3
+rgbwatch
 QFN-28_EP_5.3x5.3_Pitch0.5mm
 
 
 0
-60
+44
 29
 rgbwatch
 QFN-32_EP_4.4x4.4_Pitch0.4mm
@@ -75278,9 +75285,23 @@ QFN-32_EP_4.4x4.4_Pitch0.4mm
 38
 33
 rgbwatch
+UHD1110-FKA
+
+
+0
+4
+4
+rgbwatch
 WDFN-8
 
 
 0
 9
 9
+rgbwatch
+headerpin
+
+
+0
+1
+1
