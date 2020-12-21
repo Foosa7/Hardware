@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name brakeleds)(type Legacy)(uri ${KIPRJMOD}/brakeleds.lib)(options "")(descr ""))
+)
